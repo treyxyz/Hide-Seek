@@ -1,2 +1,2 @@
 # Hide-Seek
-Small javascript game
+Small simple javascript game. Created by treyxyz.
