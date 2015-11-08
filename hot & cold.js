@@ -5,6 +5,7 @@ $('#start').on('click', function beginGame() {						//Start Javascript
 	var randomnumberX = Math.floor(Math.random()* 1355) + 1;						//Random position
 	var randomnumberY = Math.floor(Math.random()* 610) + 1;
 	
+	$('#details').hide();
 	
 	event.target.textContent = 'Reset';
 	
